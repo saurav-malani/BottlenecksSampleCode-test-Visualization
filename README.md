@@ -27,21 +27,21 @@ There are 6 repository, each contains html and sample data file for corrospondin
 ## Running the test:
 1. Open Terminal.
 
-'''
+```
 Ctrl+Alt+T
-'''
+```
 
 2. Clone the repository.
 
-'''
+```
 git clone https://github.com/saurav-malani/BottlenecksSampleCode-test-Visualization.git
-'''
+```
 
 3. To run any Chart or Dash Board, go inside that Repository and run: 
 
-'''Browsername filename.html'''
+```Browsername filename.html```
 
 For example if you have firefox browser and want to visualize Bar Chart,run:
 
-'''firefox BarChart.html'''
+```firefox BarChart.html```
 
