@@ -1,0 +1,38 @@
+[12:00] <malani> Hello Sir
+[12:01] <ace____> hello?
+[12:02] <malani> sir did you see the proposal?
+[12:02] <ace____> yes
+[12:02] <ace____> I am seen it.
+[12:02] <malani> any feedback?
+[12:02] <malani> Also I can't proceed further with the proposal...as I don't know how to solve it
+[12:03] <malani> lilke what kind of output we get from bottlenecks...
+[12:03] <ace____> I don't have some suggestion for your proposal
+[12:04] <ace____> It's more about how do you think about this project
+[12:04] <ace____> And what do you plan to do.
+[12:04] <ace____> The output is just like normal json file.
+[12:04] <malani> I thought it would be better to first explain my understanding of project
+[12:05] <ace____> We could change the format as we want, to a xxx.out file, or a json file
+[12:05] <malani> ok
+[12:06] <ace____> Do you have other problem?
+[12:06] <malani> so after explaining what the project is, now I will work more on the technical side like
+[12:06] <malani> I cannot understand the testcases..
+[12:06] <ace____> Sure, I will recheck in next Monday.
+[12:07] <ace____> As for this project, you don't need to understand the test case is.
+[12:07] <ace____> This project is about how to use library to full the HTML
+[12:08] <ace____> web page
+[12:08] <malani> ok
+[12:08] <malani> full?
+[12:08] <ace____> I mean use json to show the output HTML
+[12:09] <malani> ok
+[12:09] <malani> also what exactly am I expected to put in the proposal
+[12:09] <malani> In terms of how I am going to solve this problem
+[12:10] <ace____> Use some tool to realize the function. From data to web page.
+[12:10] <malani> ok
+[12:10] <ace____> you need to search some way to realize this project...
+[12:10] <malani> any particular tool that you would prefer?
+[12:11] <ace____> for example: some intern want to use python + flask.
+[12:11] <ace____> So you could have some different.
+[12:15] <malani> ok...
+[12:17] <malani> I will get back to you in some time...after doing some research on availabe tools for this purpose
+[12:17] <malani> thanks a lot for the guidance :)
+[14:15] <ace____> ok
